@@ -1,6 +1,6 @@
 {
   "name": "react-native-parallax-view-with-loading-animation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "loading skelton effect with react-native-parallax-view.",
   "main": "index.js",
   "scripts": {
@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/OnetapInc/react-native-parallax-view-with-loading-animation/issues"
   },
-  "homepage": "https://github.com/OnetapInc/react-native-parallax-view-with-loading-animation/,
+  "homepage": "https://github.com/OnetapInc/react-native-parallax-view-with-loading-animation",
   "dependencies": {
     "react-native-scrollable-mixin": "^1.0.1"
   },
