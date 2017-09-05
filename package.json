@@ -1,6 +1,6 @@
 {
   "name": "react-native-parallax-view-with-loading-animation",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "loading skelton effect with react-native-parallax-view.",
   "main": "index.js",
   "scripts": {
